@@ -1,2 +1,3 @@
-# Expense-Tracker
+# Personal Finance Managment System
+
 pfms
